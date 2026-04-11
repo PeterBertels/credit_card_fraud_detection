@@ -133,4 +133,4 @@ All charts are saved to `outputs/` after running `train.py`:
 
 ## Author
 
-Peter Bertels — Computer Science Student, Carleton University
+Peter Bertels
